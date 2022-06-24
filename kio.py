@@ -1,5 +1,5 @@
-#ENCRYPTED BY  : MUHAMMAD HAMID KHAWAJA
-#ENCRYPTION    : Py3 MARSHAL
+#ENCRYPTED BY  : Tareeso
+#ENCRYPTION    : Py3 Khalid Abdullahi
 #Py3 Version   : 3.10.4
 
 import marshal
